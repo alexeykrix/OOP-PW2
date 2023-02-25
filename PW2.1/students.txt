@@ -1,0 +1,4 @@
+﻿Oleksii,75
+Eughene,90
+Andriy,85
+Bohdan,50
