@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Orange",
+    "Category": "Fruits",
+    "Price": 50.0
+  },
+  {
+    "Name": "Tomato",
+    "Category": "Vegetables",
+    "Price": 75.0
+  },
+  {
+    "Name": "Apple",
+    "Category": "Fruits",
+    "Price": 25.0
+  },
+  {
+    "Name": "Cucumber",
+    "Category": "Vegetables",
+    "Price": 125.0
+  },
+  {
+    "Name": "Sausage",
+    "Category": "Meat",
+    "Price": 10.0
+  }
+]
